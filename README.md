@@ -98,7 +98,7 @@ LLMs process vast single-cell datasets to automate cell type annotation, analyze
 If you find this summary or the original paper useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{wang-etal-2025-large,
+@inproceedings{wang-etal-2025-large-language,
     title = "Large Language Models in Bioinformatics: A Survey",
     author = "Wang, Zhenyu  and
       Wang, Zikang  and
@@ -106,11 +106,18 @@ If you find this summary or the original paper useful in your research, please c
       Chen, Pengan  and
       Shi, Xiangyu  and
       Li, Yu",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
     month = jul,
     year = "2025",
-    address = "Bangkok, Thailand",
+    address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.findings-acl.184",
-    pages = "3602--3615"
+    url = "https://aclanthology.org/2025.findings-acl.184/",
+    doi = "10.18653/v1/2025.findings-acl.184",
+    pages = "3602--3615",
+    ISBN = "979-8-89176-256-5",
+    abstract = "Large Language Models (LLMs) are revolutionizing bioinformatics, enabling advanced analysis of DNA, RNA, proteins, and single-cell data. This survey provides a systematic review of recent advancements, focusing on genomic sequence modeling, RNA structure prediction, protein function inference, and single-cell transcriptomics. Meanwhile, we also discuss several key challenges, including data scarcity, computational complexity, and cross-omics integration, and explore future directions such as multimodal learning, hybrid AI models, and clinical applications. By offering a comprehensive perspective, this paper underscores the transformative potential of LLMs in driving innovations in bioinformatics and precision medicine."
 }
