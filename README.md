@@ -2,7 +2,7 @@
 
 > This is a summary of the paper "Large Language Models in Bioinformatics: A Survey" published in the Findings of the Association for Computational Linguistics: ACL 2025. It provides a systematic review of recent advancements in the application of LLMs to bioinformatics.
 
-**Paper Link:** 🔗 [https://aclanthology.org/2025.findings-acl.184.pdf](https://aclanthology.org/2025.findings-acl.184.pdf)
+**Paper Link:** 🔗 [https://aclanthology.org/2025.findings-acl.184/](https://aclanthology.org/2025.findings-acl.184/)
 
 ---
 
