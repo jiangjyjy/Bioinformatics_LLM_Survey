@@ -12,7 +12,7 @@ Large Language Models (LLMs) are revolutionizing bioinformatics, enabling advanc
 
 ## 🚀 Table of Models
 
-This table provides a comprehensive overview of representative LLMs in bioinformatics, systematically categorized by model architecture, dataset, task, and application domain.
+This table provides a comprehensive overview of representative LLMs in bioinformatics, systematically categorized by model architecture, dataset, task, and application domain. **Some Models/Methods are provided here, and more details can be found in the original text** 🔗 [https://aclanthology.org/2025.findings-acl.184/](https://aclanthology.org/2025.findings-acl.184/).
 
 | Model | Author & Time | Venue | Type | Datasets | Task Focus |
 | :--- | :--- | :--- | :--- | :--- | :--- |
